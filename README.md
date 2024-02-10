@@ -29,5 +29,6 @@ Projeto simples de um gerador de senhas desenvolvido com HTML, CSS e JavaScript.
 
 - [4ndreDev](https://github.com/4ndreDev)
 - [Linkedin](https://www.linkedin.com/in/andr%C3%A9-luis-3073aa2ab/)
+- [página-do-site](https://devandreluis.github.io/gerador-senhas/)
 
 
